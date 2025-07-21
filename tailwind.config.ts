@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				radio: {
+					orange: 'hsl(var(--radio-orange))',
+					blue: 'hsl(var(--radio-blue))',
+					dark: 'hsl(var(--radio-dark))',
+					card: 'hsl(var(--radio-card))',
+					hover: 'hsl(var(--radio-hover))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
